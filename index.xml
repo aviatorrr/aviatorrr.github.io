@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://aviatorrr.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Jul 2019 14:39:57 +0800</lastBuildDate>
+    
+	<atom:link href="https://aviatorrr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>https://aviatorrr.github.io/post/blog/</link>
+      <pubDate>Tue, 23 Jul 2019 14:39:57 +0800</pubDate>
+      
+      <guid>https://aviatorrr.github.io/post/blog/</guid>
+      <description>Windowsͨ��cmd������ȡ�ļ��б� ���� 2018��09��14�� 14:00:29 Emily_img �Ķ��� 6419 ��Ȩ������ת����ע������ https://blog.csdn.net/u014779538/article/details/82701048 ��ʱ������Ҫ��ȡ�ļ����������ļ������б�����Ϊ���ݵķ�ʽ����ͨ��cmd�����ˡ�
+ �ٸ����ӡ������ļ���Test���������ļ���  Test�ļ���
+ ��ȡ�ļ��������ļ����ļ��е������б� ʹ���������䣺  &amp;hellip;\Test&amp;gt;dir /B &amp;gt;list.txt 1 ������ ��list.txt�У�
+0 1 1.txt 2.txt case01.jpg list.txt test.png 1 2 3 4 5 6 7 8 2.��ȡ�ļ����ض���ʽ�ļ������б� ʹ���������䣺
+&amp;hellip;\Test&amp;gt;dir *.txt /B &amp;gt;list.txt 1 ������ ��list.txt�У�
+1.txt 2.txt list.txt 1 2 3 4 3.�����޸�ʱ�����л�ȡ�ļ������б� ʹ���������䣺
+&amp;hellip;\Test&amp;gt;dir /B /o:d &amp;gt;list.txt 1 ������ ��list.txt�У�
+case01.jpg test.png 1.txt 2.txt 1 0 list.</description>
+    </item>
+    
+  </channel>
+</rss>
